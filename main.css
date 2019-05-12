@@ -16,10 +16,10 @@ header{
 h1 {
     font-family: Courier;
     background-color: ivory;
-    column-count: 2;
+    column-count: 2; 
     height: min-content;
     border: black solid; 
-}
+} 
 
 h2{
     background-color: ivory;
