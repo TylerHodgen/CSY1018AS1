@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    background-color: darkgrey;
+    border: black solid;
+}
+
+header{
+    font-family: fantasy;
+    text-align: center;
+    background-color: beige;
+    font-size: xx-large;
+    border: black solid;
+}
+
+h1 {
+    font-family: Courier;
+    background-color: ivory;
+    column-count: 2;
+    height: min-content;
+    border: black solid; 
+}
+
+h2{
+    background-color: ivory;
+    border: black solid; 
+
+}
+
+p {
+    font-family: initial;
+    font-size: large;
+    text-align: center;
+    background-color: ivory;
+    border: black solid;
+}
+
+footer{
+    font-family: monospace;
+    text-align: center;
+    background-color: beige;
+    font-size: small;
+    border: black solid;
+}    
